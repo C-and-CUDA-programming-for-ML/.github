@@ -1,5 +1,7 @@
 ## C++ for Machine Learning
 
+Welcome to our three day course in C++ in machine learning. We are goint to cover the following topics.
+
 1. Intro to C++
 
 2. Compiling PyTorch models - exercise
