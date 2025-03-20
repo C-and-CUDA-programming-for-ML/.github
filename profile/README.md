@@ -4,9 +4,9 @@ Welcome to our three day course in C++ in machine learning. We are goint to cove
 
 1. Intro to C++
 
-2. Compiling PyTorch models - exercise
+2. Compiling PyTorch models - exercise, Extending PyTorch - exercise
 
-3. Extending PyTorch - exercise 
+3. Convolutions and Perceptrons in CUDA - exercise
 
 
 
