@@ -2,7 +2,7 @@
 
 Welcome to our three day course in C++ in machine learning. We are goint to cover the following topics.
 
-Day 1. Intro to C++
+Day 1. Intro to C++ - [exercise](https://github.com/Cpp-programming-for-ML/01_intro_cpp_exercise)
 
 Day 2. Compiling PyTorch models - [exercise](https://github.com/Cpp-programming-for-ML/2_neural_networks_cpp), Extending PyTorch - [exercise](https://github.com/Cpp-programming-for-ML/3_extend_pytorch_padding)
 
