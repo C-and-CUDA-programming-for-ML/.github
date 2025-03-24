@@ -6,7 +6,7 @@ Day 1. Intro to C++ - [exercise](https://github.com/Cpp-programming-for-ML/01_in
 
 Day 2. Compiling PyTorch models - [exercise](https://github.com/Cpp-programming-for-ML/2_neural_networks_cpp), Extending PyTorch - [exercise](https://github.com/Cpp-programming-for-ML/3_extend_pytorch_padding)
 
-Day 3. Convolutions and Perceptrons in CUDA - [exercise](https://github.com/Cpp-programming-for-ML/4_cpp_conv)
+Day 3. Convolutions in CUDA - [exercise](https://github.com/Cpp-programming-for-ML/4_cpp_conv)
 
 
 ## Support
